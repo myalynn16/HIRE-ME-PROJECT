@@ -1,8 +1,12 @@
 h1{
     font-family: 'Mukta Mahee', sans-serif;
     text-align:center;
-    color:red;
-
+    color:black;
+}
+p{
+    text-align:center;
+    font-weight:bold;
+    font-size:20px;
 }
 body{
     background:pink;
@@ -10,5 +14,9 @@ body{
 }
 img{
     height:300px;
-     text-align:center;
-}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border:double 15px;color:white;
+    }
